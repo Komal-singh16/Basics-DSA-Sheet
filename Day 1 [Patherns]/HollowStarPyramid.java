@@ -10,7 +10,6 @@ public class HollowStarPyramid {
                 System.out.print(" ");
             }
             for(int j=1;j<=i;j++){
-                if(k==i)
                 System.out.print(j);
             }
             //last part
